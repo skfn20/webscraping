@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 21 22:16:20 2019
-
-@author: 김상민-Shark
-"""
-
 import sys
 import io
 import urllib.request as req
