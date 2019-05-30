@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 29 15:55:19 2019
-
-@author: 김상민-Shark
-"""
 import urllib.request as req
 import json
 from fake_useragent import UserAgent
