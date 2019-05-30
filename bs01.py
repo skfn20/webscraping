@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 28 21:02:16 2019
-
-@author: 김상민-Shark
-"""
-
 from urllib.parse import urljoin
 
 baseUrl = "http://test.com/html/a.html"
