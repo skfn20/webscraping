@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 28 22:26:06 2019
-
-@author: 김상민-Shark
-"""
-
 from bs4 import BeautifulSoup
 
 def car_func(bsObj, selector):
