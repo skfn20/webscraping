@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 28 21:57:11 2019
-
-@author: 김상민-Shark
-"""
-
 from bs4 import BeautifulSoup
 
 fp = open("food-list.html", encoding="utf-8")
