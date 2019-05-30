@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 28 21:20:51 2019
-
-@author: 김상민-Shark
-"""
 from bs4 import BeautifulSoup
 
 html = """
