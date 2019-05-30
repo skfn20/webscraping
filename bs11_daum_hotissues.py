@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 29 17:19:29 2019
-
-@author: 김상민-Shark
-"""
-
 from bs4 import BeautifulSoup
 import urllib.request as req
 
