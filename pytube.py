@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 21 22:19:50 2019
-
-@author: 김상민-Shark
-"""
-
 import pytube
 import os
 import subprocess
